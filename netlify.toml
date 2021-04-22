@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://umich.zoom.us/j/9791953040"
+  status = 301 
+  force = true
